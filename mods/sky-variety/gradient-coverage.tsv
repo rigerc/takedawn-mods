@@ -1,0 +1,21 @@
+hash	texture_name	original_size	format	track_variants	sky
+8ac56e49584718f2	AS_m_sky	32x32	f0f	AS/M1_V1 AS/M1_V2	belfast-sunset
+f533990fa31513df	ATB_SkyGradient	32x32	f0f	EU/C2_V1 EU/C2_V2	daylight
+fcaf2f7a4ca4bef3	Gradient	32x32	f0f	US/P2_V1 US/P2_V2	overcast
+5d978d49d4219946	MRTHN1_SkyGradient	32x32	f0f	EU/M1_V1 EU/M1_V2	overcast
+cf3add2c7f711961	P2P1_SkyGradient	32x32	f0f	EU/P1_V1 EU/P1_V2	kloppenheim-sunrise
+f4a84e91b1d5b414	P2P1_SkyGradient	32x32	f0f	US/M1_V1	night
+5f373098d10193fc	P2P1_SkyGradient_01	32x32	f0f	US/M1_V2	night
+19282eea18701a14	P2P2_SkyGradient	32x32	f0f	EU/P2_V1 EU/P2_V2	daylight
+552c91bb383daf25	R_SkyGradient	32x32	f0f	EU/C3_V1 EU/C3_V2	daylight
+910c20ed933ff21f	VYD_SkyGradient	32x32	f0f	EU/M2_V1 EU/M2_V2	dusk
+3ab161a3522c5b60	VYD_Skygradient_test	32x32	f0f	EU/C4_V1 EU/C4_V2	qwantani-sunrise
+ff0cd749dd71ae44	WF_gradients	32x32	f0f	US/C1_V1 US/C1_V2 US/C5_V1	sunflowers-daylight
+033d73a072972b12	bk_sky	32x32	f0f	AS/C1_V1 AS/C1_V2	daylight
+8c6284c1e33ac36a	bk_sky	32x32	f0f	AS/C2_V1 AS/C2_V2	daylight
+e19a355b46dd5230	gradients	32x32	f0f	AS/C3_V1 AS/C3_V2	daylight
+f34a2ba756fc0942	gradients	32x32	f0f	US/C3_V1 US/C3_V2	sunset
+a474d38697a257eb	gradients_01	32x32	f0f	US/C2_V1	daylight
+4bd9051a760db98d	gradients_01_Reverse	32x32	f0f	US/C2_V2	overcast
+dc21f7767a573cb3	gradients_prestorm2	32x32	f0f	US/P1_V1 US/P1_V2	rosendal-sunset
+88376bd8d72aad46	skygrad1	32x32	f0f	EU/C1_V1 EU/C1_V2	overcast-soil

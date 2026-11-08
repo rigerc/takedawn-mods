@@ -1,0 +1,79 @@
+{
+  "belfast-sunset": {
+    "asset": "belfast_sunset_puresky",
+    "title": "Belfast Sunset (Pure Sky)",
+    "authors": "Dimitrios Savva / Greg Zaal / Jarod Guest",
+    "sha256": "a774a5144689e9cd721d6fb34638a29ef9814ff3b7048dcba23a2fee26aefdf4",
+    "brightness": 1.0
+  },
+  "kloppenheim-sunrise": {
+    "asset": "kloppenheim_06_puresky",
+    "title": "Kloppenheim 06 (Pure Sky)",
+    "authors": "Greg Zaal / Jarod Guest",
+    "sha256": "4084ddd6c57d76e05ac7de9f563077aabd77d07f6b03593d0930a3fc515494b4",
+    "brightness": 1.0
+  },
+  "qwantani-sunrise": {
+    "asset": "qwantani_sunrise_puresky",
+    "title": "Qwantani Sunrise (Pure Sky)",
+    "authors": "Greg Zaal / Jarod Guest",
+    "sha256": "f15b29499916b331fda0358e7d828a95ea7239f028770cb6d538a8c7321e3abc",
+    "brightness": 1.0
+  },
+  "rosendal-sunset": {
+    "asset": "rosendal_park_sunset_puresky",
+    "title": "Rosendal Park Sunset (Pure Sky)",
+    "authors": "Dimitrios Savva / Jarod Guest",
+    "sha256": "0d9b84bd555c19c1f4da762e7a1cdeaefa673694bd77229910a029b2a0daf349",
+    "brightness": 1.0
+  },
+  "overcast-soil": {
+    "asset": "overcast_soil_puresky",
+    "title": "Overcast Soil (Pure Sky)",
+    "authors": "Sergej Majboroda / Jarod Guest",
+    "sha256": "3d0363f3f1784fa9739f3f253f8e8f75871d9d6d663a9291bb2f8d012a041e9b",
+    "brightness": 1.0
+  },
+  "sunflowers-daylight": {
+    "asset": "sunflowers_puresky",
+    "title": "Sunflowers (Pure Sky)",
+    "authors": "Sergej Majboroda / Jarod Guest",
+    "sha256": "dd4a613cf855af44aa11eac1ec59b44061653988dcbe210e408232bb6352d729",
+    "brightness": 1.0
+  },
+  "daylight": {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "title": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+    "authors": "Greg Zaal / Jarod Guest",
+    "sha256": "2bdd7abe32f1d2f7a626e0a6e45bb808313f29bd41d758eacbdba91560e93f04",
+    "brightness": 1.0
+  },
+  "sunset": {
+    "asset": "industrial_sunset_puresky",
+    "title": "Industrial Sunset (Pure Sky)",
+    "authors": "Sergej Majboroda / Jarod Guest",
+    "sha256": "8908d7626a47b234bec5e5435061d0cf08fa5276eb19df16a62ba22137cbcae2",
+    "brightness": 1.0
+  },
+  "dusk": {
+    "asset": "qwantani_dusk_2_puresky",
+    "title": "Qwantani Dusk 2 (Pure Sky)",
+    "authors": "Greg Zaal / Jarod Guest",
+    "sha256": "9c2936a301fbc1b700a2ef3d8fdb50644df0e3c2bf2c5329527bb3685d55b32a",
+    "brightness": 1.0
+  },
+  "overcast": {
+    "asset": "kloofendal_overcast_puresky",
+    "title": "Kloofendal Overcast (Pure Sky)",
+    "authors": "Greg Zaal",
+    "sha256": "8c43b53c187c8b2fa7c492fb2c40743f1d460fb47935456ea701c740a35d4ce7",
+    "brightness": 1.0
+  },
+  "night": {
+    "asset": "qwantani_night_puresky",
+    "title": "Qwantani Night (Pure Sky)",
+    "authors": "Greg Zaal / Jarod Guest",
+    "sha256": "e557a79662a413d93e7248a418a1f2f11cca604ffd3a56bb9687d925629b7e2d",
+    "brightness": 0.55
+  }
+}

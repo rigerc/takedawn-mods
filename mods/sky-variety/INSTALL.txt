@@ -1,0 +1,26 @@
+Sky Variety 1.2.0
+
+One mod, eleven skies assigned across 37 track variants. See coverage.tsv for
+exact assignments. The game chooses by the track's original texture hash;
+there is no separate selector or random change on each race.
+
+Extract sky-variety/ into the default mods folder:
+  Linux / Steam Deck: ~/.local/share/takedawn/mods/
+  macOS: ~/Library/Application Support/Takedawn/mods/
+  Windows: %APPDATA%\Takedawn\mods\
+  Portable: data/mods/ next to the executable
+Enable Sky Variety in Settings > Mods and restart.
+Disable Industrial Sunset Skies or any other sky pack first: these replace
+the same texture hashes. For the original skies, disable this mod and restart.
+
+17 RGBA sky sheets at 4x original size (4096x1024 or 4096x512), plus
+20 matching RGB gradient atlases (128x128). alpha=auto reads new sheet alpha
+and retains the gradient atlas alpha. Sheet opacity is full except an 8%
+zenith fade. The old cloud silhouettes are not reused.
+Requires Takedawn's PNG texture-pack support (docs/mod-folders.md).
+Sky gradients are recoloured from each source panorama. Fog, sun/moon sprites,
+track lighting and reflection textures remain in use. This replaces sky artwork; it does not change time of day.
+Night artwork on a track does not darken the road. Colours can be affected by
+the game's remaining vertex tint and fog. Track variants sharing a hash share a sky.
+All assignments identified from NTSC-U disc data. All 37 variants have not
+been visually verified. See VALIDATION.txt for checks actually performed.

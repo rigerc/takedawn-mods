@@ -1,0 +1,43 @@
+Sky Variety 1.2.0 - validation 2026-11-08
+
+CHANGES
+17 RGBA sky sheets use source panorama RGB and new alpha: full opacity except
+an authored fade across the top 8% to blend the zenith. The original cloud
+masks are no longer reused. Night artwork is darkened to 55%.
+20 RGB sky-gradient atlas replacements use the horizontal-average colour
+profile of each assigned panorama. Original atlas alpha is retained by the
+runtime. pack.toml uses alpha=auto, selecting PNG alpha for RGBA sheets and
+original alpha for RGB gradients. Eleven source skies across 37 track variants.
+No original game textures or masks are distributed with the ZIP.
+
+STATIC
+All 37 PNGs decode. Sky sheets: RGBA, 4096x512 or 4096x1024, alpha range 0..255
+and full opacity in the main sky area. Gradients: RGB, 128x128. Horizontal
+wrapped edges match exactly. Every gradient maps to exactly one assigned sky.
+Manifest remains local.sky-variety, version 1.2.0. ZIP paths and CRCs checked.
+HTML comparison updated to use each sheet's actual alpha, not the old mask
+for both. It includes real no-mod and v1.2.0 screenshots at the scripted race
+start. HTML preview has no console errors. Original game artwork in that HTML
+is local-only and excluded from the ZIP.
+
+RUNTIME
+Takedawn 0.3.1 bo3/int058, NTSC-U manifest 81dc20fd647fb0b1.
+Linux, NVIDIA RTX 3070, Vulkan, headless, scratch saves.
+US/C1_V1: Sunflowers sheet 63e60b5b0ba46281 plus gradient ff0cd749dd71ae44.
+US/M1_V2: Night sheet 0b417989a2a35597 plus gradient 5f373098d10193fc.
+Both runs uploaded sheet and gradient replacements with zero texture decode
+failures and completed driving, boost, crash and pause: SB DONE ok.
+Driving frames inspected for both tracks. Daylight now shows the source's
+cloud silhouettes, visibly different from the newly captured no-mod baseline.
+Night renders the new star field. No obvious scene corruption was seen in
+these captures; sun/moon sprites are not replaced by the pack.
+
+LIMITATIONS
+All three complete-pack test/control processes reported SB DONE ok and then
+exited with SIGSEGV during shutdown. This reproduces the previously observed
+no-mod shutdown issue; the mod does not fix executable shutdown.
+Other track variants, HDR and other platforms have not been visually checked.
+Gradient atlas alpha, vertex tint, fog, sun/moon effects, track lighting and
+reflection textures remain controlled by the original game. This is sky art,
+not a complete time-of-day or lighting conversion. Fade and gradient mapping
+need further per-track review if a seam or colour mismatch is observed.

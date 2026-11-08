@@ -1,0 +1,18 @@
+hash	texture_name	original_size	format	track_variants	sky
+f3a1c49543fb8f3e	AS_m_clouds	1024x256	f0f	AS/M1_V1 AS/M1_V2	belfast-sunset
+40869c59bc73a3f3	ATB_Sky_Clouds	1024x256	f0f	EU/C2_V1 EU/C2_V2	daylight
+f4ccfd662aeaec22	Clouds	1024x256	f0f	US/P2_V1 US/P2_V2	overcast
+0a5d77e3cd221324	Clouds_prestorm_01	1024x128	f0f	US/P1_V1 US/P1_V2	rosendal-sunset
+dace40c6da57205f	MRTHN1_Sky_Clouds	1024x256	f0f	EU/M1_V1 EU/M1_V2	overcast
+a6863ace90e39f13	P2P1_Sky_Clouds	1024x256	f0f	EU/P1_V1 EU/P1_V2	kloppenheim-sunrise
+0b417989a2a35597	P2P1_Sky_Clouds	1024x256	f0f	US/M1_V1 US/M1_V2	night
+fcb9b0b2ad0879f1	P2P2_Sky_Clouds	1024x256	f0f	EU/P2_V1 EU/P2_V2	daylight
+cd3baa2367e0405a	R_Sky_Clouds	1024x256	f0f	EU/C3_V1 EU/C3_V2 US/C2_V1	daylight
+c4babec846764e0a	VYD_Sky_Clouds	1024x256	f0f	EU/C4_V1 EU/C4_V2	qwantani-sunrise
+df879bd3a80a725a	VYD_Sky_Clouds	1024x256	f0f	EU/M2_V1 EU/M2_V2	dusk
+d577ef9a76fb2c7e	bk_skyclouds	1024x256	f0f	AS/C1_V1 AS/C1_V2 AS/C2_V1 AS/C2_V2	daylight
+eedfd07ad0ee7013	clouds	1024x256	f0f	AS/C3_V1 AS/C3_V2	daylight
+b1df0a1c6b7f91d5	clouds	1024x256	f0f	EU/C1_V1 EU/C1_V2	overcast-soil
+63e60b5b0ba46281	clouds	1024x128	f0f	US/C1_V1 US/C1_V2 US/C5_V1	sunflowers-daylight
+a26fa0e79be6e648	clouds	1024x128	f0f	US/C2_V2	overcast
+a2b6b006816acc35	clouds	1024x128	f0f	US/C3_V1 US/C3_V2	sunset
