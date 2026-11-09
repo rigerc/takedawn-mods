@@ -2,7 +2,7 @@
 
 Eleven photographic skies assigned across 37 track variants in Takedawn. Version **1.2.1** replaces 17 sky sheets and recolours 20 sky-gradient atlases. Each sky uses its own cloud shapes instead of the original game's cloud mask.
 
-[Download Sky Variety 1.2.0](https://github.com/rigerc/takedawn-mods/releases/download/sky-variety-v1.2.0/sky-variety-1.2.0.zip) (1.2.1, described below, is not released yet: copy this folder from the repository to use it)
+[Download Sky Variety 1.2.1](https://github.com/rigerc/takedawn-mods/releases/download/sky-variety-v1.2.1/sky-variety-1.2.1.zip)
 
 ## Installation
 
