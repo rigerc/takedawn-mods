@@ -1,3 +1,8 @@
+Sky Variety 1.2.1 - EU/C1 and EU/M1 skies reassigned 2026-11-09 (4 textures changed).
+Checked in game (Takedawn 0.3.1, Linux, Vulkan, headless, race start): EU/C1_V2 and EU/M1_V1
+load the new sheets with the mod reported as 1.2.1. Other results below are from 1.2.0
+and were not repeated.
+
 Sky Variety 1.2.0 - validation 2026-11-08
 
 CHANGES

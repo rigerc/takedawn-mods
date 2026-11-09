@@ -1,4 +1,4 @@
-Sky Variety 1.2.0
+Sky Variety 1.2.1
 
 One mod, eleven skies assigned across 37 track variants. See coverage.tsv for
 exact assignments. The game chooses by the track's original texture hash;

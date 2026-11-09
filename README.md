@@ -6,9 +6,19 @@ A collection of mods for [Takedawn](https://github.com/xenophobentx/takedawn), t
 
 | Mod | Version | What it changes |
 | --- | --- | --- |
-| [Sky Variety](mods/sky-variety/) | 1.2.0 | Eleven sky images across 37 track variants, with new cloud masks and matching sky gradients. |
+| [Sky Variety](mods/sky-variety/) | 1.2.1 | Eleven sky images across 37 track variants, with new cloud masks and matching sky gradients. |
 
 Download installable ZIPs from [Releases](https://github.com/rigerc/takedawn-mods/releases). Each release is named for its mod, so mods can be updated independently.
+
+## Previews
+
+Sky Variety in game, stock on the left and the mod on the right. More tracks are in the [mod's README](mods/sky-variety/README.md#in-game-comparison).
+
+| Track | Stock | Sky Variety 1.2.1 |
+| --- | --- | --- |
+| US/C1_V1<br>Sunflowers daylight | ![US/C1_V1 stock](mods/sky-variety/screenshots/us-c1-v1-stock.jpg) | ![US/C1_V1 with Sky Variety](mods/sky-variety/screenshots/us-c1-v1-sky-variety.jpg) |
+| US/C3_V1<br>Industrial Sunset | ![US/C3_V1 stock](mods/sky-variety/screenshots/us-c3-v1-stock.jpg) | ![US/C3_V1 with Sky Variety](mods/sky-variety/screenshots/us-c3-v1-sky-variety.jpg) |
+| EU/C1_V2<br>Sunflowers daylight | ![EU/C1_V2 stock](mods/sky-variety/screenshots/eu-c1-v2-stock.jpg) | ![EU/C1_V2 with Sky Variety](mods/sky-variety/screenshots/eu-c1-v2-sky-variety.jpg) |
 
 ## Install a mod
 
